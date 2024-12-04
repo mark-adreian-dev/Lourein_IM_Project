@@ -1,0 +1,8 @@
+HOW TO RUN THE PROJECT
+
+1.INSTAL NODE.JS
+2.Open workbench and run the script "CCS110_Final_Project.sql" this will generate all the datas"
+3.run "runApp.bat" "this should take you to the localhost with the our project"
+
+
+
